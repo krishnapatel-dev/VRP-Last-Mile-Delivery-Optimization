@@ -76,28 +76,28 @@ The project combines:
 ## 🚦 Optimized Vehicle Routes
 Efficient delivery paths generated using VRP optimization.
 
-![Optimized Routes](images/result.png)
+![Optimized Routes](images/routes.png)
 
 ---
 
 ## 📍 Delivery Density Heatmap
 Shows high-demand delivery regions near the warehouse.
 
-![Heatmap](images/Delivery Density Heatmap.png)
+![Heatmap](images/Delivery_Density_Heatmap.png)
 
 ---
 
 ## 📉 Delivery Distance Distribution
 Histogram showing localized delivery demand.
 
-![Histogram](images/Distance Distribution.png)
+![Histogram](images/Distance_Distribution.png)
 
 ---
 
 ## 🔄 Random vs Optimized Routing
 Comparison showing distance reduction after optimization.
 
-![Comparison](images/Route Optimization Comparison.png)
+![Comparison](images/Route_Optimization_Comparison.png)
 
 ---
 
