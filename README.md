@@ -160,3 +160,150 @@ VRP-Last-Mile-Delivery-Optimization/
 ├── report/
 ├── README.md
 └── requirements.txt
+
+```
+
+---
+
+# ▶️ Installation & Setup
+
+## Clone Repository
+
+```bash
+git clone https://github.com/krishnapatel-dev/VRP-Last-Mile-Delivery-Optimization.git
+```
+
+---
+
+## Navigate to Project Directory
+
+```bash
+cd VRP-Last-Mile-Delivery-Optimization
+```
+
+---
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open the notebook inside:
+
+```bash
+notebooks/
+```
+
+---
+
+# 📁 Dataset Information
+
+The project uses:
+- OpenStreetMap (OSM) road network data
+- Real-world building footprints
+- Simulated delivery demand generation
+
+### Included CSV Files
+
+| File | Description |
+|---|---|
+| `locations.csv` | Delivery location coordinates |
+| `distance_matrix.csv` | Shortest path distance matrix |
+| `building_delivery_data.csv` | Processed delivery dataset |
+| `large_delivery_data.csv` | Extended delivery simulation data |
+
+---
+
+# 📌 Problem Complexity
+
+The Vehicle Routing Problem (VRP) is an **NP-hard optimization problem**.
+
+Challenges include:
+- Route optimization
+- Multiple vehicle allocation
+- Distance minimization
+- Scalability handling
+- Real-world road constraints
+
+This project uses heuristic optimization methods from **Google OR-Tools** to generate near-optimal solutions efficiently.
+
+---
+
+# 🧠 Skills Demonstrated
+
+- Optimization Algorithms
+- Graph Theory
+- Geographic Data Processing
+- Statistical Analysis
+- Data Visualization
+- Python Programming
+- Real-World Problem Solving
+
+---
+
+# 💡 Engineering Applications
+
+This project can be applied in:
+- Quick Commerce Delivery
+- Food Delivery Systems
+- Logistics Optimization
+- Smart City Transportation
+- Fleet Management Systems
+- E-commerce Delivery Platforms
+
+---
+
+# 📚 References
+
+- OpenStreetMap
+- Google OR-Tools Documentation
+- OSMnx Documentation
+- NetworkX Documentation
+
+---
+
+# 👨‍💻 Contributors
+
+| Name | Contribution |
+|---|---|
+| Patel Krishna | VRP Modeling, Optimization & Analysis |
+
+---
+
+# ⭐ Why This Project Stands Out
+
+✔ Real-world optimization problem  
+✔ Uses actual geographic road networks  
+✔ Strong visualization and analytics  
+✔ Industry-relevant logistics application  
+✔ Practical implementation using advanced Python libraries  
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 🙌 Acknowledgment
+
+Developed as part of the course:
+
+**Statistical Methods and Optimization Techniques (25MTCSE102)**  
+JAIN (Deemed-to-be University)
+
+---
+
+# 🌟 Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
